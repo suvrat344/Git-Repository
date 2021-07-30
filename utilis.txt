@@ -1,1 +1,1 @@
-it is a utilis function.
+it is a utility function.
